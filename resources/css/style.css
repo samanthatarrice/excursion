@@ -25,6 +25,10 @@ p {
   color: gray;
 }
 
+.cell-icon {
+  padding-top: 1.4rem;
+}
+
 .footer {
   text-align: right;
   color: gray;
